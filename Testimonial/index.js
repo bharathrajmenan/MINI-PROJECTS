@@ -3,13 +3,13 @@ const testimonials = [
     "id": 1,
     "username": 'BRM',
     "text": 'life is a peaceful paradox',
-    "image": "images. jpeg",
+    "image": "images.jpeg",
   },
   {
     "id": 2,
     "username": 'john',
     "text": 'life is a dangerous',
-    "image": "images22.jpeg",
+    "image": "image22.jpeg",
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@ const testimonials = [
     "id": 4,
     "username": 'roman',
     "text": 'life is mystery',
-    "image": "ffffff.jpeg",  
+    "image": "ffffff.jpg",  
   },
   {
     "id": 5,
