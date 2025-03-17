@@ -21,13 +21,13 @@ const testimonials = [
     "id": 4,
     "username": 'roman',
     "text": 'life is mystery',
-    "image": "image22.jpeg",
+    "image": "ffffff.jpeg",  
   },
   {
     "id": 5,
     "username": 'batista',
     "text": 'life is a nothing',
-    "image": "images.jpeg",
+    "image": "45c3.png",   
   }
 ]
 
