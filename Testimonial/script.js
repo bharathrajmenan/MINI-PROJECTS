@@ -25,7 +25,7 @@ const testimonial = [
   },
   {
     "id": 5,
-    "name": 'WRITER NAGULAN',
+    "name": 'NAKULAN',
     "testimonial": 'there is no something new',
     "image": "nakulan.jpg"   
   },
